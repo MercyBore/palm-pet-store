@@ -1,19 +1,25 @@
 # palm-pet-store
-Authors: Mercy Bore and Venus Mwende
-This website explains the details of the pet store, benefits of having pets,a caution and the contact address and location of the pet store.
-
-Author: Mercy Bore.
-This is a simple landing page for ordering burgers online.
- Setup/Installation Requirements
-* Be connected to the internet
-* Install Visual Studio
-This project fully depends on the code within here.
-Known Bugs
-Some of the links and features are not working well.
-Technologies Used
-This project was entirely created in HTML & CSS.
-Support and contact 
-This is an open resource in case you need to add or require clarification feel free to contact me.
- License
-This project is under MIT License.
-Copyright (c) 2021 Author: Mercy Bore
+Palm Pet Store  https://github.com/Venus-Kavunza/Burger_Palace
+## Author
+ Mercy bore and Venus Mwende
+### Description
+The website entails more about a pet store
+### Prerequisities
+You need to have git installed
+You can install it with the following command in your terminal
+`$ sudo apt install git-all`
+### Setup
+To access this project on your local files, you can clone it using these steps
+1. Open your terminal
+1. Use this command to clone `$ git clone
+https://github.com/Venus-Kavunza/Burger_Palace
+1. This will clone the repositoty into your local folder
+1. __Enjoy :)__:)__
+### Technologies Used
+1. HTML
+1. CSS
+1. Git
+### Live Site
+View [Live] https://github.com/Venus-Kavunza/Burger_Palace
+### Licence
+This project is under the  [MIT](license) license
